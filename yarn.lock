@@ -146,7 +146,7 @@
   dependencies:
     "@babel/types" "^7.16.7"
 
-"@babel/helper-plugin-utils@^7.16.7", "@babel/helper-plugin-utils@^7.8.3":
+"@babel/helper-plugin-utils@^7.16.7":
   version "7.16.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.16.7.tgz#aa3a8ab4c3cceff8e65eb9e73d87dc4ff320b2f5"
   integrity sha512-Qg3Nk7ZxpgMrsox6HreY1ZNKdBq7K72tDSliA6dCl5f007jR4ne8iD5UzuNnCJH2xBf2BEEVGr+/OL6Gdp7RxA==
@@ -298,13 +298,6 @@ ast-types@0.14.2:
   integrity sha512-O0yuUDnZeQDL+ncNGlJ78BiO4jnYI3bvMsD5prT0/nsgijG/LpNBIr63gTjVTNsiGkgQhiyCShTgxt8oXOrklA==
   dependencies:
     tslib "^2.0.1"
-
-babel-plugin-recast@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-recast/-/babel-plugin-recast-0.2.0.tgz#9476ba491e0c5fa155ade7b0d9baeb0c7b0a6135"
-  integrity sha512-wED/omVsUEFWv98p2Um/9tsSxfaEPGtgPZbNFTFV4hmBpbahcWcTLG7DZRJyuYqykV/jmDbErpzDr/dl31xJTA==
-  dependencies:
-    "@babel/helper-plugin-utils" "^7.8.3"
 
 browserslist@^4.17.5:
   version "4.19.3"
