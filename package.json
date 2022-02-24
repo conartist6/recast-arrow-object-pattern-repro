@@ -1,0 +1,13 @@
+{
+  "name": "recast-repro",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.17.5",
+    "@babel/preset-typescript": "^7.16.7",
+    "babel-plugin-recast": "^0.2.0",
+    "recast": "^0.20.5"
+  }
+}
